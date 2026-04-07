@@ -1,4 +1,4 @@
 <?php
 $num = null;
-echo "Digte um numero";
+echo "Digte um numero :";
 ?>
